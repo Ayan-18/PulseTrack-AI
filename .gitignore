@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Secrets & Environment variables
+.env
+*.jks
+*.keystore
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# AI Studio & Antigravity internal directories
+.aistudio/
+.antigravity/
